@@ -13,7 +13,7 @@ I love building scalable and Business Driven applications.
 - 💬 Ask me about .NET
 - 📫 How to reach me: **prakash.dhakal@hei.com.np**
 - 😄 Pronouns: BL
-- ⚡ Fun fact: strongly interested in Feynman Equations , than coding.
+- ⚡ Fun fact: more interested in Feynman Equations , than coding 😄😄.
 -  ⟨qf,tf∣qi,ti⟩=∫Dq(t)eℏiS[q(t)]
 
 ## 🛠️ Languages and Tools
