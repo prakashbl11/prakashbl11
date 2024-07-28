@@ -2,7 +2,7 @@
 <h3 align="center"> .NET Developer </h3>
 <h4  align="center"><b></b>|| अंत: अस्ति प्रारंम्भ ||</h4>
 
-- ##
+##
 - 🔭 I’m currently learning Docker , Kubernetes and C# .
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications** with .NET 
@@ -13,28 +13,6 @@
   
 - 👨‍💻 All of my projects are available at [[https://www.codekura.versel.app](https://codekura.versel.app/)/]
 
-- ## Projects
-
-- [Portfolio](https://github.com/prakashbl11/portfolio-basic): I build basic portfolio website for learning purpose.
-  
-- [Blog](https://github.com/prakashbl11/blog-basic): Blog demo project using .NET (Razor pages).
-
-## Contact Info
-
-<p align="left">
-  <a href="https://twitter.com/prakashbl11" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakashbl11" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/prakashbl11/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakashbl11" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@prakashbl11" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prakashbl11" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/prakashbl11" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakashbl11" height="30" width="40" />
-  </a>
-</p>
 
 ## Languages and Tools:
 
@@ -54,6 +32,7 @@
 </p>
 
 ## GitHub Stats:
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashbl11&show_icons=true&theme=dark&locale=en" alt="prakashbl11" />
 </p>
@@ -61,11 +40,34 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashbl11&theme=dark" alt="prakashbl11" />
 </p>
 
+## Contact Info
+
+<p align="left">
+  <a href="https://twitter.com/prakashbl11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakashbl11" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/prakashbl11/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakashbl11" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@prakashbl11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prakashbl11" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/prakashbl11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakashbl11" height="30" width="40" />
+  </a>
+</p>
 
 ## Skills
 
 - **Languages**: JS, C# , TS
 - **Frameworks**: Angular, ASP.NET
 - **Tools**: Git, Docker, Kubernetes , PostgreSQL , SSMS , Excel , Rider , DBeaver
+
+## Projects
+
+- [Portfolio](https://github.com/prakashbl11/portfolio-basic): I build basic portfolio website for learning purpose.
+  
+- [Blog](https://github.com/prakashbl11/blog-basic): Blog demo project using .NET (Razor pages).
+
 
 
