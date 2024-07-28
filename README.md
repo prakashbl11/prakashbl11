@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prakash.dhakal@hei.com.np**
   
-- 👨‍💻 All of my projects are available at [[https://www.codekura.versel.app](https://codekura.versel.app/)/]
+- 👨‍💻 All of my projects are available at [[[https://www.codekura.com.np](https://codekura.vercel.app/)]
 
 
 ## Languages and Tools:
