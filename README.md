@@ -14,7 +14,7 @@ I love building scalable and Business Driven applications.
 - 📫 How to reach me: **prakash.dhakal@hei.com.np**
 - 😄 Pronouns: BL
 - ⚡ Fun fact: more interested in Feynman Equations , than coding 😄😄.
--  ⟨qf,tf∣qi,ti⟩=∫Dq(t)eℏiS[q(t)]
+-  ⟨qf,tf∣qi,ti⟩=∫Dq(t)e^i/ℏS[q(t)]
 
 ## 🛠️ Languages and Tools
 
