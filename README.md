@@ -2,7 +2,7 @@
 <h3 align="center"> .NET Developer </h3>
 <h4  align="center"><b></b>|| अंत: अस्ति प्रारंम्भ ||</h4>
 
-- ## main()
+- ##
 - 🔭 I’m currently learning Docker , Kubernetes and C# .
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications** with .NET 
@@ -17,7 +17,7 @@
 
 - [Portfolio](https://github.com/prakashbl11/portfolio-basic): I build basic portfolio website for learning purpose.
 - 
-- [Blog](https://github.com/prakashbl11/blob-basic): Blog demo project.
+- [Blog](https://github.com/prakashbl11/blog-basic): Blog demo project using .NET (Razor pages).
 
 
 <h3 align="left">Here you can Connect with me:</h3>
