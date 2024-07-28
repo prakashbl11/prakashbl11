@@ -46,15 +46,30 @@ I love building scalable and Business Driven applications.
 <p align="left">
   <a href="https://twitter.com/prakashbl11" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakashbl11" height="30" width="40" />
+
+  <a href="https://https://www.instagram.com/prakashbl11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakashbl11" height="30" width="40" />
+    
+  </a>
+
+  <a href="https://https://www.facebook.com/prakashbl11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakashbl11" height="30" width="40" />
+    
   </a>
   <a href="https://linkedin.com/in/prakashbl11/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakashbl11" height="30" width="40" />
+    
   </a>
   <a href="https://medium.com/@prakashbl11" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prakashbl11" height="30" width="40" />
   </a>
+  
   <a href="https://www.leetcode.com/prakashbl11" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakashbl11" height="30" width="40" />
+  </a>
+
+  <a href="https://www.hackerrank.com/prakashbl11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="prakashbl11" height="30" width="40" />
   </a>
 </p>
 
