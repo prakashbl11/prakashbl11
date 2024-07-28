@@ -2,7 +2,7 @@
 <h3 align="center"> .NET Developer </h3>
 <h4  align="center"><b></b>|| अंत: अस्ति प्रारंम्भ ||</h4>
 
-- ##
+##
 - 🔭 I’m currently learning Docker , Kubernetes and C# .
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications** with .NET 
@@ -13,13 +13,13 @@
 - 
 - 👨‍💻 All of my projects are available at [[https://www.codekura.versel.app](https://codekura.versel.app/)/]
 
-- ## Projects
+## Projects
 
 - [Portfolio](https://github.com/prakashbl11/portfolio-basic): I build basic portfolio website for learning purpose.
 - 
 - [Blog](https://github.com/prakashbl11/blog-basic): Blog demo project using .NET (Razor pages).
 
-
+## Contact Info
 <h3 align="left">Here you can Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/prakashbl11" target="_blank">
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages And Tools :
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -52,6 +52,7 @@
   </a>
 </p>
 
+##
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashbl11&show_icons=true&theme=dark&locale=en" alt="prakashbl11" />
@@ -59,6 +60,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashbl11&theme=dark" alt="prakashbl11" />
 </p>
+##
 
 
 ## Skills
