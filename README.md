@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Prakash BL Dhakal </h1>
+<h1 align="center">Hi 👋, Welcome to my GitHub profile! I'm Prakash BL Dhakal.</h1>
 <h3 align="center"> .NET Developer </h3>
 <h4  align="center"><b></b>|| अंत: अस्ति प्रारंम्भ ||</h4>
 
-##
-- 🔭 I’m currently learning Docker , Kubernetes and C# .
+## 💼 About Me
 
-- 👯 I’m looking to collaborate on **Full Stack Web Applications** with .NET 
+I'm a passionate software Developer with a focus on BackEnd and FrontEnd Development.
+I love building scalable and Business Driven applications.
 
-- 💬 Ask me about **Software Engineering and IT**
+- 🌱 I’m currently learning Docker , Kubernetes , Jenkins and C#.
+- 👯 I’m currently working At Himalayan Everest Insurance Through Ekbana Solutions.
+- 🤔 I’m looking for help with Jenkins.
+- 💬 Ask me about .NET
+- 📫 How to reach me: **prakash.dhakal@hei.com.np**
+- 😄 Pronouns: BL
+- ⚡ Fun fact: strongly interested in Quantum Mechanics , than coding.
+-  \( \langle q_f, t_f | q_i, t_i \rangle \) as:
+  \[
+  \langle q_f, t_f | q_i, t_i \rangle = \int \mathcal{D}q(t) \, e^{\frac{i}{\hbar} S[q(t)]}
+  \]
 
-- 📫 How to reach me **prakash.dhakal@hei.com.np**
-  
-- 👨‍💻 All of my projects are available at [[https://www.smartkura.com.np](https://codekura.vercel.app/)]
-
-
-## Languages and Tools:
+## 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -31,16 +36,17 @@
   </a>
 </p>
 
-## GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashbl11&show_icons=true&theme=dark&locale=en" alt="prakashbl11" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashbl11&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashbl11&theme=dark" alt="prakashbl11" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashbl11&theme=dark" alt="GitHub Streak" />
 </p>
 
-## Contact Info
+
+## 🔗 Connect with Me
 
 <p align="left">
   <a href="https://twitter.com/prakashbl11" target="_blank">
@@ -56,6 +62,21 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakashbl11" height="30" width="40" />
   </a>
 </p>
+
+
+## 🎓 Education
+
+- **Degree**: Bachelors in Computer Science and Information Technology (B.Sc.CSIT) from Tribhuvan University - 2074 Batch.
+  
+- **Year**: 2022
+  
+- **Courses**: C , C++ , Physics , Algebra , DSA , Numerical Methods , MP , Cryptography , Java , Image Processing , Web Development , .NET , Advance Database , Cloud Computing ,Principle of Management , AI , DAA , Discrete Structure and Statistics.
+
+## 🌐 Find Me Elsewhere
+
+- [[https://www.smartkura.com.np](https://codekura.vercel.app/)]
+
+- [[https://www.kurasociety.com](https://kurasociety.blogspot.com/)]
 
 ## Skills
 
