@@ -13,11 +13,8 @@ I love building scalable and Business Driven applications.
 - 💬 Ask me about .NET
 - 📫 How to reach me: **prakash.dhakal@hei.com.np**
 - 😄 Pronouns: BL
-- ⚡ Fun fact: strongly interested in Quantum Mechanics , than coding.
--  \( \langle q_f, t_f | q_i, t_i \rangle \) as:
-  \[
-  \langle q_f, t_f | q_i, t_i \rangle = \int \mathcal{D}q(t) \, e^{\frac{i}{\hbar} S[q(t)]}
-  \]
+- ⚡ Fun fact: strongly interested in Feynman Equations , than coding.
+-  ⟨qf,tf∣qi,ti⟩=∫Dq(t)eℏiS[q(t)]
 
 ## 🛠️ Languages and Tools
 
