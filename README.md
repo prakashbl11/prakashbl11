@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Prakash BL Dhakal 👋
 
-<!--
-**prakashbl11/prakashbl11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate .NET developer with a focus on High Quality Business Driven Software Development. I love working on open-source projects and learning new technologies.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, C# , Postgresql , c , typescript 
+- **Frameworks**: Angular, ASP.NET
+- **Tools**: Git, Docker, Kubernetes , PostgreSQL , SSMS , Excel , Rider , DBeaver
+
+## Projects
+
+- [Project 1](https://github.com/prakashbl11/portfolio-basic): Personal page.
+- [Project 2](https://github.com/prakashbl11/blob-basic): Blog demo project.
+
+## Contact
+
+- [Email](mailto:prakash.dhakal@hei.com.np)
+- [LinkedIn](https://linkedin.com/in/prakashbl11)
+- [Insta](https://instagram.com/prakashbl11)
+
