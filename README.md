@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, Welcome to my GitHub profile!
+<h1 align="center">Hi 👋,
   I'm Prakash BL Dhakal.</h1>
 <h3 align="center"> .NET Developer </h3>
 <h4  align="center"><b></b>|| अंत: अस्ति प्रारंम्भ ||</h4>
 
 ## 💼 About Me
-
+Welcome to my GitHub profile!
 I'm a passionate software Developer with a focus on BackEnd and FrontEnd Development.
 I love building scalable and Business Driven applications.
 
